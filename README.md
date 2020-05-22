@@ -1,5 +1,4 @@
-# client-agreement
-## Information Technology Services Agreement
+# wildfire-services-agreement
 
 THIS AGREEMENT ("Agreement) is made by and between _ _ _ _ _ _ _ ("Company") and SAMANVAY WEB PVT. LTD. ("Consultant").
 
