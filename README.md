@@ -30,9 +30,9 @@ The term of this Agreement shall be 9 weeks from the date of transaction of adva
 
 6. Compensation
 The payment shall be made in 3 phases:
-Advance payment of INR 30,000 (exclusive of taxes).
-Payment of INR 30,000 (exclusive of taxes) after 4 weeks of work.
-Payment of INR 1,00,000 (exclusive of taxes) after completion of services as described in section 2 of this agreement.
+Advance payment of INR _ _ _ (exclusive of taxes).
+Payment of INR _ _ _ (exclusive of taxes) after 4 weeks of work.
+Payment of INR _ _ _ (exclusive of taxes) after completion of services as described in section 2 of this agreement.
 
 7. Jurisdiction
 This Agreement shall be governed by the laws of the Union of India, jurisdiction of state of Delhi.
