@@ -32,4 +32,5 @@ This Agreement shall be governed by the laws of the Union of India, jurisdiction
 6. Compensation
 The payment shall be made in the following way:
 Monthly payment of INR _ _ _ (exclusive of taxes) while Active-LTS period.
-Monthly payment of INR _ _ _ (exclusive of taxes) while Maintenance-LTS period.
+Monthly payment of INR _ _ _ (exclusive of taxes) while Maintenance-LTS period.8. Termination
+If either party decides to terminate the contract, one month's notice will have to be given. The terms of payment will remain the same, according to point 6. of this agreement for the notice period.
