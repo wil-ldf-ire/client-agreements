@@ -32,5 +32,13 @@ This Agreement shall be governed by the laws of the Union of India, jurisdiction
 6. Compensation
 The payment shall be made in the following way:
 Monthly payment of INR _ _ _ (exclusive of taxes) while Active-LTS period.
-Monthly payment of INR _ _ _ (exclusive of taxes) while Maintenance-LTS period.8. Termination
+Monthly payment of INR _ _ _ (exclusive of taxes) while Maintenance-LTS period.
+
+7. Switching between Active-LTS mode and Maintenance-LTS mode
+
+7.1 Downgrading from Active-LTS to Maintenance-LTS requires one month's notice period. The terms of payment will remain the same, according to point 6. of this agreement for the notice period.
+
+7.2 Switching back from Maintenance-LTS to Active-LTS is not permitted. It will require signing of a new contract with fresh terms of engagement.
+
+8. Termination
 If either party decides to terminate the contract, one month's notice will have to be given. The terms of payment will remain the same, according to point 6. of this agreement for the notice period.
