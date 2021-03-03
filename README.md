@@ -1,6 +1,6 @@
 # wildfire-services-agreements
 
 1. Data Agreement
-2. Admin Agreement
-3. Hosting Contract (edit point 7)
-4. LTS Contract (edit points 3.1 and 6)
+2. Junction Agreement - Admin Dashboard
+3. Origin Contract - Domain and Hosting (edit point 8)
+4. Tribe LTS Contract (Application) (edit points 4.1 and 7)
